@@ -1,2 +1,2 @@
 # setting only diffable but not merg-able
-*.sif -merge -text
+*.sif binary
