@@ -1,3 +1,5 @@
 # setting only diffable but not merg-able
 *.sif binary
 *.sif linguist-generated=true
+*.xml binary
+*.xml linguist-generated=true
